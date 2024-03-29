@@ -2,7 +2,7 @@
 
 This API has only three features:
 
-1. **Display all tasks\**
+1. **Display all tasks**
 
    - This endpoint retrieves a list of all tasks stored in the system.
    - The response will be a JSON array containing objects representing each task.
